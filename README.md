@@ -34,7 +34,7 @@ A statistical analysis tool built with Rust to evaluate the quality of Random Nu
 An advanced API built with Rust and OpenAI GPT integration for task automation.  
 - Memory persistence, CSV exports, and streamlined execution of AI-powered scripts.  
 
-### 🌐 **[PySupervise](https://github.com/Dev-next-gen/py-supervise))**  
+### 🌐 **[PySupervise](https://github.com/Dev-next-gen/py-supervise)**  
 A FastAPI-powered backend for real-time task monitoring and resource tracking.  
 - Includes Server-Sent Events (SSE) for live updates and detailed analytics.  
 
