@@ -66,7 +66,7 @@ If you’re looking for a **dedicated developer** with a diverse skill set and a
 
 ## 📫 **How to Reach Me**
 
-- Email: [your-email@example.com](mailto:leo.camus23@gmail.com)  
+- Email: leo.camus23@gmail.com 
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - Twitter: [@DevNextGen](https://twitter.com/DevNextGen)  
 
