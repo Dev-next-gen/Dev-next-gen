@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a **versatile developer and tech enthusiast**
 ## 🌟 **About Me**
 
 - 💻 **Professional Background:**  
-  With a strong foundation in software development, I’ve led and contributed to projects ranging from **RNG analysis tools** to **blockchain applications**. Previously, I managed a **mining rig worth over €100,000** and developed advanced solutions for Ethereum mining and wallet security.  
+  With a strong foundation in software development, I’ve led and contributed to projects ranging from **RNG analysis tools** to **blockchain applications**. Previously, I managed a mining factory and developed advanced solutions for Ethereum mining and wallet security.  
   Currently, I’m venturing into **high-temperature 3D printing** for applications in dentistry and engineering.
 
 - 🌱 **Technical Expertise:**  
