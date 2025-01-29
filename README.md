@@ -47,7 +47,7 @@ I'm a **self-taught developer** passionate about **blockchain technology**, **cy
 ### 📫 Get in Touch
 - **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
 - **Email**: [your.email@gmail.com](mailto:your.email@gmail.com)
-- **Upwork**: [Your Profile](https://www.upwork.com/freelancers/yourprofile)
+- **Upwork**: [Your Profile](https://www.upwork.com/freelancers/~010312cf603a9eae7b)
 
 ---
 
