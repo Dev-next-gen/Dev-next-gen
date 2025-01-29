@@ -1,87 +1,56 @@
-# 👋 Hi, I’m @Dev-next-gen
+# 👋 Hi, I'm @Dev-next-gen!
 
-Welcome to my GitHub profile! I am a **versatile developer and tech enthusiast** with a passion for creating innovative solutions across diverse domains, including **cryptography, artificial intelligence, blockchain, and 3D printing**. Over the years, I’ve worked on a variety of challenging projects that showcase my ability to combine technical expertise with creative problem-solving.
-
----
-
-## 🌟 **About Me**
-
-- 💻 **Professional Background:**
-  
-  With a strong foundation in software development, I’ve led and contributed to projects ranging from **RNG analysis tools** to **blockchain applications**. Previously, I managed a mining factory and developed advanced solutions for Ethereum mining and wallet security.  
-  Currently, I’m venturing into **high-temperature 3D printing** for applications in dentistry and engineering.
-
-- 🌱 **Technical Expertise:**  
-  - **Programming Languages:** Rust, Python, JavaScript, TypeScript.  
-  - **Frameworks and Tools:** Rocket, FastAPI, Angular, Electron, TailwindCSS.  
-  - **Domains:** Cryptography, Blockchain, Random Number Generators (RNG), Artificial Intelligence, 3D Printing.
-
-- 🛠 **Key Skills:**  
-  - Designing and optimizing **statistical analysis tools** for RNG validation.  
-  - Developing **backend systems** for real-time monitoring and task automation.  
-  - Customizing **3D printers** for high-performance materials like PEEK.  
-  - Creating **user-friendly interfaces** for complex technical systems.
+## 🚀 Blockchain Developer | Security Enthusiast | Automation Expert
+I'm a **self-taught developer** passionate about **blockchain technology**, **cybersecurity**, and creating innovative solutions. My unconventional journey has allowed me to build advanced skills in developing secure smart contracts, backend systems, and intelligent automation tools.
 
 ---
 
-## 🚀 **Highlighted Projects**
-
-### 🔒 **[Seed Tester](https://github.com/Dev-next-gen/seed_tester)**  
-A statistical analysis tool built with Rust to evaluate the quality of Random Number Generators (RNG).  
-- Features include frequency tests, entropy validation, and JSON/CSV export.  
-- Ideal for cryptographic and simulation applications.  
-
-### 🤖 **RustAiControl**  
-An advanced API built with Rust and OpenAI GPT integration for task automation.  
-- Memory persistence, CSV exports, and streamlined execution of AI-powered scripts.  
-
-### 🌐 **[PySupervise](https://github.com/Dev-next-gen/py-supervise)**  
-A FastAPI-powered backend for real-time task monitoring and resource tracking.  
-- Includes Server-Sent Events (SSE) for live updates and detailed analytics.  
-
-### 🛠 **VisualKey**  
-A Windows-optimized interface for accelerating RNG performance.  
-- Focused on high-speed computation with user-friendly control panels.  
-
-### 🖨️ **3D Printing Innovations**  
-Exploring **high-temperature 3D printing** for materials like PEEK and ASA carbon-reinforced filaments.  
-- Modifying the Elegoo Neptune 4 and Artillery Sidewinder for advanced applications.  
-- Developing a pipeline for **dental implants and precision engineering.**  
-
-### 🔗 **Blockchain Analysis Tools**  
-Building scripts to analyze vulnerabilities in legacy Bitcoin wallets (2010) and testing cryptographic weaknesses.  
-- Includes nonce analysis, signature validation, and private key recovery.  
+### 🌟 What I Do
+- **Blockchain Development**: Smart contracts (Solidity, Rust) and security analysis for DeFi protocols.
+- **Cybersecurity**: Smart contract auditing, vulnerability prevention, and research in blockchain security.
+- **Robust Backend**: Scalable, high-performance architectures with **Rust** (Rocket) and **Python** (FastAPI).
+- **Automation**: Arbitrage bots, MEV systems, and SaaS tools for blockchain optimization.
+- **Artificial Intelligence**: Integrating AI algorithms (e.g., GPT) to enhance user experiences.
 
 ---
 
-## 💼 **Looking for Opportunities**
-
-I am currently seeking roles where I can:  
-- Develop **innovative tools** for cryptography, AI, or blockchain ecosystems.  
-- Collaborate on **open-source projects** that impact a global audience.  
-- Lead or contribute to **research-driven developments** in cutting-edge technologies.  
-
-If you’re looking for a **dedicated developer** with a diverse skill set and a passion for tackling complex challenges, let’s connect!
+### 🔧 Key Skills
+- **Programming Languages**: Solidity, Rust, Python, JavaScript
+- **Frameworks**: Hardhat, Truffle, Rocket, FastAPI
+- **Blockchain Expertise**: Smart contract development, DeFi protocols, Ethereum wallets
+- **Security**: Vulnerability analysis and exploitation (e.g., reentrancy, flash loans, etc.)
+- **Tools**: Hardhat, Foundry, Web3.js, ethers.js
 
 ---
 
-## 📫 **How to Reach Me**
+### 📂 Notable Projects
+1. **RustAiControl**  
+   An autonomous solution integrating OpenAI’s API for secure and optimized artificial intelligence services. [Learn more](https://github.com/yourprofile/rustaicontrol)
 
-- Email: leo.camus23@gmail.com 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Twitter: [@DevNextGen](https://twitter.com/DevNextGen)  
+2. **PySupervise**  
+   A Python-based tool for monitoring, analyzing, and automating blockchain processes. [Learn more](https://github.com/yourprofile/pysupervise)
+
+3. **DeFi Arbitrage Bot**  
+   Developed an autonomous bot leveraging MEV (Maximal Extractable Value) opportunities and arbitrage across DeFi protocols.
+
+4. **Audits & Blockchain Security**  
+   Contributions to smart contract audits for Ethereum and Binance Smart Chain projects.
 
 ---
 
-## 🎯 **Fun Facts**
-
-- I turned my passion for Ethereum mining into a full-scale operation in Ukraine, managing over €100,000 in GPU assets.  
-- I am developing a **custom AI-assisted DJ system** for live techno performances.  
-- My current 3D printing project aims to revolutionize dental prosthetics using high-temperature materials.
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=radical)
 
 ---
 
-<!---
-Dev-next-gen/Dev-next-gen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Get in Touch
+- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
+- **Email**: [your.email@gmail.com](mailto:your.email@gmail.com)
+- **Upwork**: [Your Profile](https://www.upwork.com/freelancers/yourprofile)
+
+---
+
+💡 **Philosophy**: *Every line of code is an opportunity to build something secure and unique.*
+
+🔗 **I'm open to collaborations and projects!**
