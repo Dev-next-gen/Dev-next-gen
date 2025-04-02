@@ -5,6 +5,7 @@
     “Self-taught, system-level thinker with hands-on expertise in low-level optimization, AI integration, GPU-level parallelism and secure blockchain automation.”
 
 🧬 Who I Am
+
 I'm a self-taught developer & hacker of systems, specialized in multi-GPU optimization (OpenCL/ROCm), advanced AI integration, and cybersecurity engineering.
 I build tools from the ground up — kernel to UI — and I optimize everything in between.
 
@@ -27,6 +28,7 @@ I build tools from the ground up — kernel to UI — and I optimize everything 
     → Yes, an AI that can rebuild herself 🤖🔥
 
 🛠️ Core Skills
+
 Domain	Stack
 Languages	Rust, Python, Solidity, Bash, C++, JavaScript
 AI	GPT Integration, CLBlast, multi-GPU OpenCL patches
