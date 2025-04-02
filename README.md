@@ -31,12 +31,23 @@ I build tools from the ground up — kernel to UI — and I optimize everything 
 
 Domain	Stack
 
-Languages : Rust, Python, Solidity, Bash, C++, JavaScript
-AI: GPT Integration, CLBlast, multi-GPU OpenCL patches
-System Level : ROCm, Linux Kernel Config, Xeon Tuning, CPU Pinning
-Security : Pentest Automation, Honeypots, SOC AI, Tor/ProxyChains
-Blockchain : Hardhat, Foundry, Truffle, Ethereum/BSC Audits
-Automation : Arbitrage Bots, AI Monitors, Custom Infra-as-Code
+Languages : 
+Rust, Python, Solidity, Bash, C++, JavaScript
+
+AI: 
+GPT Integration, CLBlast, multi-GPU OpenCL patches
+
+System Level : 
+ROCm, Linux Kernel Config, Xeon Tuning, CPU Pinning
+
+Security : 
+Pentest Automation, Honeypots, SOC AI, Tor/ProxyChains
+
+Blockchain : 
+Hardhat, Foundry, Truffle, Ethereum/BSC Audits 
+
+Automation : 
+Arbitrage Bots, AI Monitors, Custom Infra-as-Code
 
 🌐 Notable Projects
 
