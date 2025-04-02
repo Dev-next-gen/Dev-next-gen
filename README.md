@@ -1,42 +1,60 @@
-# 👋 Hi, I'm @Dev-next-gen!
+👋 Hi, I'm @Dev-next-gen!
 
-## 🚀 Blockchain Developer | Security Enthusiast | Automation Expert
-I'm a **self-taught developer** passionate about **blockchain technology**, **cybersecurity**, and creating innovative solutions. My unconventional journey has allowed me to build advanced skills in developing secure smart contracts, backend systems, and intelligent automation tools.
+🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems Optimizer | 🔗 Blockchain Builder
 
----
+    “Self-taught, system-level thinker with hands-on expertise in low-level optimization, AI integration, GPU-level parallelism and secure blockchain automation.”
 
-### 🌟 What I Do
-- **Blockchain Development**: Smart contracts (Solidity, Rust) and security analysis for DeFi protocols.
-- **Cybersecurity**: Smart contract auditing, vulnerability prevention, and research in blockchain security.
-- **Robust Backend**: Scalable, high-performance architectures with **Rust** (Rocket) and **Python** (FastAPI).
-- **Automation**: Arbitrage bots, MEV systems, and SaaS tools for blockchain optimization.
-- **Artificial Intelligence**: Integrating AI algorithms (e.g., GPT) to enhance user experiences.
+🧬 Who I Am
+I'm a self-taught developer & hacker of systems, specialized in multi-GPU optimization (OpenCL/ROCm), advanced AI integration, and cybersecurity engineering.
+I build tools from the ground up — kernel to UI — and I optimize everything in between.
 
----
+💼 What I Do Best
 
-### 🔧 Key Skills
-- **Programming Languages**: Solidity, Rust, Python, JavaScript
-- **Frameworks**: Hardhat, Truffle, Rocket, FastAPI
-- **Blockchain Expertise**: Smart contract development, DeFi protocols, Ethereum wallets
-- **Security**: Vulnerability analysis and exploitation (e.g., reentrancy, flash loans, etc.)
-- **Tools**: Hardhat, Foundry, Web3.js, ethers.js
+    AI Runtime Optimization:
+    Custom builds (e.g., KoboldCpp) with OpenCL multi-GPU support on AMD hardware, optimized for inference on high-RAM Xeon-based rigs (512GB+).
 
----
+    Cybersecurity Engineering:
+    Offensive & defensive scripting, honeypot deployment, SOC monitoring automation, and root-level system defense with AI-enhanced response systems.
 
-### 📂 Notable Projects
-1. **RustAiControl**  
-   An autonomous solution integrating OpenAI’s API for secure and optimized artificial intelligence services. [Learn more](https://github.com/yourprofile/rustaicontrol)
+    Blockchain & DeFi:
+    Secure smart contract development (Solidity/Rust), vulnerability research (reentrancy, MEV exploits), and DeFi automation bots.
 
-2. **PySupervise**  
-   A Python-based tool for monitoring, analyzing, and automating blockchain processes. [Learn more](https://github.com/yourprofile/pysupervise)
+    Backends That Run Fast & Hard:
+    Production-grade APIs using Rust (Rocket) and Python (FastAPI) for performance-critical systems.
 
-3. **DeFi Arbitrage Bot**  
-   Developed an autonomous bot leveraging MEV (Maximal Extractable Value) opportunities and arbitrage across DeFi protocols.
+    Autonomous Systems (DeepSeek R1):
+    Self-improving Linux-based AI agent with dynamic storage, resource balancing, and live kernel awareness.
+    → Yes, an AI that can rebuild herself 🤖🔥
 
-4. **Audits & Blockchain Security**  
-   Contributions to smart contract audits for Ethereum and Binance Smart Chain projects.
+🛠️ Core Skills
+Domain	Stack
+Languages	Rust, Python, Solidity, Bash, C++, JavaScript
+AI	GPT Integration, CLBlast, multi-GPU OpenCL patches
+System Level	ROCm, Linux Kernel Config, Xeon Tuning, CPU Pinning
+Security	Pentest Automation, Honeypots, SOC AI, Tor/ProxyChains
+Blockchain	Hardhat, Foundry, Truffle, Ethereum/BSC Audits
+Automation	Arbitrage Bots, AI Monitors, Custom Infra-as-Code
 
----
+🌐 Notable Projects
+
+    DeepSeek R1 (Work in Progress)
+    ➤ Autonomous Linux-based AI kernel with root-level access, honeypot orchestration, dynamic GPU/CPU load management.
+    → [Soon on GitHub]
+
+    RustAiControl
+    ➤ Secure AI Controller leveraging OpenAI API with memory persistence and system introspection.
+    → github.com/yourprofile/rustaicontrol
+
+    PySupervise
+    ➤ Python tool for blockchain automation, log parsing, and secure backend integration.
+    → github.com/yourprofile/pysupervise
+
+    DeFi Arbitrage Bot
+    ➤ MEV bot exploiting cross-DEX opportunities with built-in security measures.
+    → [Soon to be open-sourced]
+
+    Multi-GPU Patch for KoboldCpp
+    ➤ OpenCL round-robin distribution for RX 7900 XT GPUs, boosting inference throughput on AMD hardware.
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
@@ -51,6 +69,7 @@ I'm a **self-taught developer** passionate about **blockchain technology**, **cy
 
 ---
 
-💡 **Philosophy**: *Every line of code is an opportunity to build something secure and unique.*
+💡 **Philosophy**: 💡 “I don't wait for tools. I build them.”
 
-🔗 **I'm open to collaborations and projects!**
+🔗 Open to collabs, freelance missions, or projects pushing limits.
+
