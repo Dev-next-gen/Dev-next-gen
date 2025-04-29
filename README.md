@@ -1,32 +1,34 @@
 👋 Hi, I'm @Dev-next-gen!
 
-🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems Optimizer | 🔗 Blockchain Builder
+🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator
 
-    “Self-taught, system-level thinker with hands-on expertise in low-level optimization, AI integration, GPU-level parallelism and secure blockchain automation.”
+    "Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools."
+    
+🧬 About Me
 
-🧬 Who I Am
+I am a system-level hacker, optimizer, and builder.
+I specialize in multi-GPU ROCm architectures, AI integration at the kernel level, and offensive cybersecurity engineering.
 
-I'm a self-taught developer & hacker of systems, specialized in multi-GPU optimization (OpenCL/ROCm), advanced AI integration, and cybersecurity engineering.
-I build tools from the ground up — kernel to UI — and I optimize everything in between.
+I create autonomous systems from scratch, optimize GPU clusters, and deploy blockchain-secured AI infrastructures.
+I don't use tools — I forge them.
 
-💼 What I Do Best
+💼 Core Expertise
 
     AI Runtime Optimization:
-    Custom builds (e.g., KoboldCpp) with OpenCL multi-GPU support on AMD hardware, optimized for inference on high-RAM Xeon-based rigs (512GB+).
+    ROCm Multi-GPU (OpenCL), Custom PoW Solvers, Kernel-Level Tuning
 
     Cybersecurity Engineering:
-    Offensive & defensive scripting, honeypot deployment, SOC monitoring automation, and root-level system defense with AI-enhanced response systems.
+    SOC Automation, Honeypot Networks, Offensive Scripting
 
     Blockchain & DeFi:
-    Secure smart contract development (Solidity/Rust), vulnerability research (reentrancy, MEV exploits), and DeFi automation bots.
+    Solidity/Rust Smart Contracts, Arbitrage Bots, Secure DeFi Infrastructure
 
     Backends That Run Fast & Hard:
-    Production-grade APIs using Rust (Rocket) and Python (FastAPI) for performance-critical systems.
+    Linux Kernel Mods, CPU/GPU Load Balancing, ROCm Custom Builds
 
-    Autonomous Systems (DeepSeek R1):
-    Self-improving Linux-based AI agent with dynamic storage, resource balancing, and live kernel awareness.
-    → Yes, an AI that can rebuild herself 🤖🔥
-
+    Autonomous Agents:
+    AI-powered, Self-Healing Linux Systems (DeepSeek R1)
+   
 🛠️ Core Skills
 
 Domain	Stack
@@ -34,42 +36,44 @@ Domain	Stack
 Languages : 
 Rust, Python, Solidity, Bash, C++, JavaScript
 
-AI: 
-GPT Integration, CLBlast, multi-GPU OpenCL patches
+GPU Acceleration : 
+ROCm, CLBlast, OpenCL, Multi-GPU Patching
 
-System Level : 
-ROCm, Linux Kernel Config, Xeon Tuning, CPU Pinning
+System Engineering : 
+Linux Kernel Tuning, Xeon/RAM Optimization, Low-Level Debugging
 
 Security : 
-Pentest Automation, Honeypots, SOC AI, Tor/ProxyChains
+Tor, ProxyChains, SOC Monitoring, Pentest Automation
 
 Blockchain : 
-Hardhat, Foundry, Truffle, Ethereum/BSC Audits 
+Ethereum, BSC, Hardhat, Foundry, DeFi Audits 
 
 Automation : 
-Arbitrage Bots, AI Monitors, Custom Infra-as-Code
+Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
 
 🌐 Notable Projects
 
-    DeepSeek R1 (Work in Progress)
-    ➤ Autonomous Linux-based AI kernel with root-level access, honeypot orchestration, dynamic GPU/CPU load management.
+    Bittensor-ROCm Fork
+    ➔ First fully working ROCm fork of Bittensor SDK, enabling AMD GPU mining on decentralized AI subnets
+    
+    DeepSeek R1 (WIP)
+    ➔ Autonomous Linux-based AI Agent with GPU/CPU balancing, honeypot orchestration, and live system self-awareness
     → [Soon on GitHub]
 
     RustAiControl
-    ➤ Secure AI Controller leveraging OpenAI API with memory persistence and system introspection.
+    ➔ Secure AI Controller built with Rust and OpenAI integration, memory persistence, and system introspection
     → github.com/yourprofile/rustaicontrol
 
     PySupervise
-    ➤ Python tool for blockchain automation, log parsing, and secure backend integration.
+    ➔ Python FastAPI backend for real-time blockchain monitoring and resource analysis
     → github.com/yourprofile/pysupervise
 
+    Multi-GPU OpenCL Patch for KoboldCpp
+    ➔ ROCm Round-Robin distribution across RX 7900 XT GPUs for accelerated AI inference
+    
     DeFi Arbitrage Bot
-    ➤ MEV bot exploiting cross-DEX opportunities with built-in security measures.
-    → [Soon to be open-sourced]
-
-    Multi-GPU Patch for KoboldCpp
-    ➤ OpenCL round-robin distribution for RX 7900 XT GPUs, boosting inference throughput on AMD hardware.
-
+    ➔ Cross-DEX MEV bot leveraging Solidity exploits for secured arbitrage
+    
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=radical)
@@ -83,7 +87,7 @@ Arbitrage Bots, AI Monitors, Custom Infra-as-Code
 
 ---
 
-💡 **Philosophy**: 💡 “I don't wait for tools. I build them.”
+💡 **Philosophy**: 💡 "I don't wait for technologies. I build them faster."
 
 🔗 Open to collabs, freelance missions, or projects pushing limits.
 
