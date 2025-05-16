@@ -74,12 +74,6 @@ Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
     DeFi Arbitrage Bot
     ➔ Cross-DEX MEV bot leveraging Solidity exploits for secured arbitrage
     
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=radical)
-
----
-
 ### 📫 Get in Touch
 - **LinkedIn**: [Soon](https://www.linkedin.com/in/yourprofile)
 - **Email**: [Here](mailto:your.email@gmail.com)
