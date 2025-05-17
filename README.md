@@ -1,6 +1,6 @@
 <p align="center">👋 Hi, I'm @Dev-next-gen!</p>
 
-🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator
+<p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
 
     "Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools."
     
