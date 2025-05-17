@@ -3,14 +3,8 @@
 
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
 
-<h2 align="center">
-  <marquee direction="right" behavior="scroll" scrollamount="5" style="color:limegreen; font-weight:600;">
-    Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools.
-  </marquee>
-</h2>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Self-taught+builder+of+AI+infrastructures;GPU-accelerated+systems;Decentralized+automation+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Self-taught+builder+of+AI+infrastructures,+GPU-accelerated+systems,+and+decentralized+automation+tools." alt="Typing SVG" />
 </div>
 
 <p align="center">🧬 About Me
