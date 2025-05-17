@@ -12,6 +12,8 @@ I specialize in multi-GPU ROCm architectures, AI integration at the kernel level
 I create autonomous systems from scratch, optimize GPU clusters, and deploy blockchain-secured AI infrastructures.
 I don't use tools — I forge them.
 
+![Alt text](https://chemin-vers-image.png)
+
 💼 Core Expertise
 
     AI Runtime Optimization:
