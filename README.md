@@ -8,7 +8,11 @@
     Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools.
   </marquee>
 </h2>
-    
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Self-taught+builder+of+AI+infrastructures;GPU-accelerated+systems;Decentralized+automation+tools" alt="Typing SVG" />
+</div>
+
 <p align="center">🧬 About Me
 
 I am a system-level hacker, optimizer, and builder.
