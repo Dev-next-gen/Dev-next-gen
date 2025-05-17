@@ -91,7 +91,10 @@ Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
 - **Email**: [Here](mailto:your.email@gmail.com)
 - **Upwork**: [Here](https://www.upwork.com/freelancers/~010312cf603a9eae7b)
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=ERROR+404...........;BROKEN+PIPE........;CTF%7BG0dM0d%7D" alt="CTF Typing SVG" />
+</div>
+
 
 💡 **Philosophy**: 💡 "I don't wait for technologies. I build them faster."
 
