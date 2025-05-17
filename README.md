@@ -1,10 +1,10 @@
-👋 Hi, I'm @Dev-next-gen!
+<p align="center">👋 Hi, I'm @Dev-next-gen!</p>
 
 🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator
 
     "Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools."
     
-🧬 About Me
+<p align="center">🧬 About Me
 
 I am a system-level hacker, optimizer, and builder.
 I specialize in multi-GPU ROCm architectures, AI integration at the kernel level, and offensive cybersecurity engineering.
@@ -21,7 +21,7 @@ I don't use tools — I forge them.
 </p>
 
 
-💼 Core Expertise
+<p align="center">💼 Core Expertise</p>
 
     AI Runtime Optimization:
     ROCm Multi-GPU (OpenCL), Custom PoW Solvers, Kernel-Level Tuning
@@ -38,7 +38,7 @@ I don't use tools — I forge them.
     Autonomous Agents:
     AI-powered, Self-Healing Linux Systems (DeepSeek R1)
    
-🛠️ Core Skills
+<p align="center">🛠️ Core Skills</p>
 
 Domain	Stack
 
@@ -60,7 +60,7 @@ Ethereum, BSC, Hardhat, Foundry, DeFi Audits
 Automation : 
 Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
 
-🌐 Notable Projects
+<p align="center">🌐 Notable Projects</p>
 
     Bittensor-ROCm Fork
     ➔ First fully working ROCm fork of Bittensor SDK, enabling AMD GPU mining on decentralized AI subnets
@@ -83,7 +83,7 @@ Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
     DeFi Arbitrage Bot
     ➔ Cross-DEX MEV bot leveraging Solidity exploits for secured arbitrage
     
-### 📫 Get in Touch
+<p align="center">### 📫 Get in Touch</p>
 - **LinkedIn**: [Soon](https://www.linkedin.com/in/yourprofile)
 - **Email**: [Here](mailto:your.email@gmail.com)
 - **Upwork**: [Here](https://www.upwork.com/freelancers/~010312cf603a9eae7b)
