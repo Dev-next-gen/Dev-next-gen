@@ -3,8 +3,11 @@
 
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
 
-
-    "Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools."
+<h2 align="center">
+  <marquee direction="right" behavior="scroll" scrollamount="5" style="color:limegreen; font-weight:600;">
+    Self-taught builder of AI infrastructures, GPU-accelerated systems, and decentralized automation tools.
+  </marquee>
+</h2>
     
 <p align="center">🧬 About Me
 
