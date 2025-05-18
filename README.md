@@ -47,25 +47,25 @@ I don't use tools — I forge them.
 
 <p align="center">🛠️ Core Skills</p>
 
-Domain	Stack
+    Domain	Stack
 
-Languages : 
-Rust, Python, Solidity, Bash, C++, JavaScript
+    Languages : 
+    Rust, Python, Solidity, Bash, C++, JavaScript
 
-GPU Acceleration : 
-ROCm, CLBlast, OpenCL, Multi-GPU Patching
+    GPU Acceleration : 
+    ROCm, CLBlast, OpenCL, Multi-GPU Patching
 
-System Engineering : 
-Linux Kernel Tuning, Xeon/RAM Optimization, Low-Level Debugging
+    System Engineering : 
+    Linux Kernel Tuning, Xeon/RAM Optimization, Low-Level Debugging
 
-Security : 
-Tor, ProxyChains, SOC Monitoring, Pentest Automation
+    Security : 
+    Tor, ProxyChains, SOC Monitoring, Pentest Automation
 
-Blockchain : 
-Ethereum, BSC, Hardhat, Foundry, DeFi Audits 
+    Blockchain : 
+    Ethereum, BSC, Hardhat, Foundry, DeFi Audits 
 
-Automation : 
-Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
+    Automation : 
+    Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
 
 <p align="center">🌐 Notable Projects</p>
 
