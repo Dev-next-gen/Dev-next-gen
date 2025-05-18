@@ -1,9 +1,5 @@
 <p align="center">👋 Hi, I'm @Dev-next-gen!</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TON-USER/TON-REPO/main/assets/ascii-pacman.svg" alt="Pacman Binary Explosion">
-</p>
-
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
 
 <div align="center">
