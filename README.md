@@ -1,6 +1,6 @@
 <p align="center">👋 Hi, I'm @Dev-next-gen!</p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TON-UTILISATEUR/TON-REPO/main/assets/nom_du_fichier.gif" alt="Bannière animée" width="70%" />
+  <img src="https://necessary-disorder.tumblr.com/image/707896771831119872" alt="Bannière animée" width="70%" />
 </div>
 
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
