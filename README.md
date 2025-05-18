@@ -1,6 +1,8 @@
 <p align="center">👋 Hi, I'm @Dev-next-gen!</p>
 <div align="center">
-  <img src="https://64.media.tumblr.com/12b4ece15c1c6d03816181c61544db7a/95260de7cd9c6d94-24/s640x960/34996d71e9090a0818e03266dc330564519c5c2e.gif" alt="Matrix Pacman Banner" style="width: 100%; max-width: 1000px; height: auto;" />
+  <img src="https://64.media.tumblr.com/4c8ad60e5b4aa3c47178c9ad9b2c12f5/6bfbef89b682171f-d5/s540x810/ed89d487e6c1e7812a4df7b3a23d22687f3dbfc4.gif" 
+       width="70%" 
+       alt="Matrix Banner"/>
 </div>
 
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
