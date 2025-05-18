@@ -1,6 +1,6 @@
 <p align="center">👋 Hi, I'm @Dev-next-gen!</p>
 <div align="center">
-  <img src="[https://64.media.tumblr.com/4c8ad60e5b4aa3c47178c9ad9b2c12f5/6bfbef89b682171f-d5/s540x810/ed89d487e6c1e7812a4df7b3a23d22687f3dbfc4.gif](https://necessary-disorder.tumblr.com/image/707896771831119872)"/>
+  <img src="https://necessary-disorder.tumblr.com/image/707896771831119872"/>
 </div>
 
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
