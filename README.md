@@ -1,7 +1,7 @@
 <p align="center">👋 Hi, I'm @Dev-next-gen!</p>
-<div align="center">
-  <img src="https://necessary-disorder.tumblr.com/image/707896771831119872" alt="Bannière animée" width="70%" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;---%C2%B7%C2%B7%C2%B7---;%C2%B7%C2%B7%C2%B7---%C2%B7%C2%B7%C2%B7;--%C2%B7---%C2%B7--;%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;-%C2%B7%C2%B7-%C2%B7%C2%B7-;%C2%B7--%C2%B7--%C2%B7" alt="spirale-animée-hack" />
+</p>
 
 <p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
 
