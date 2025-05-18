@@ -94,16 +94,15 @@ I don't use tools — I forge them.
     DeFi Arbitrage Bot
     ➔ Cross-DEX MEV bot leveraging Solidity exploits for secured arbitrage
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=CTF%7BG0dM0d%7D" alt="CTF Flag" />
+</div>
 
 <p align="center">### 📫 Get in Touch</p>
 
     - **LinkedIn**: [Soon](https://www.linkedin.com/in/yourprofile)
     - **Email**: [Here](mailto:your.email@gmail.com)
     - **Upwork**: [Here](https://www.upwork.com/freelancers/~010312cf603a9eae7b)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=CTF%7BG0dM0d%7D" alt="CTF Flag" />
-</div>
 
 
 💡 **Philosophy**: 💡 "I don't wait for technologies. I build them faster."
