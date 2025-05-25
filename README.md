@@ -47,7 +47,7 @@ I don't use tools — I forge them.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=ERROR+404..........." alt="ERROR 404" />
 </div>
 
-<p align="center">🛠- Core Skills -</p>
+<p align="center">- Core Skills -</p>
 
     Domain	Stack
 
