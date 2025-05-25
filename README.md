@@ -1,15 +1,15 @@
-<p align="center">👋 Hi, I'm @Dev-next-gen!</p>
+<p align="center">Hi, I'm @Dev-next-gen!</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;---%C2%B7%C2%B7%C2%B7---;%C2%B7%C2%B7%C2%B7---%C2%B7%C2%B7%C2%B7;--%C2%B7---%C2%B7--;%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;-%C2%B7%C2%B7-%C2%B7%C2%B7-;%C2%B7--%C2%B7--%C2%B7" alt="spirale-animée-hack" />
 </p>
 
-<p align="center">🧠 IA Architect | 🛡️ Cybersecurity Specialist | ⚙️ Systems & GPU Optimizer | 🔗 Blockchain Innovator</p>
+<p align="center">-- IA Architect |  Cybersecurity Specialist | Systems & GPU Optimizer | Blockchain Innovator --</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Self-taught+builder+of+AI+infrastructures;GPU-accelerated+systems;and+decentralized+automation+tools" alt="Typing SVG" />
 </div>
 
-<p align="center">🧬 About Me
+<p align="center">- About Me -</p>
 
 I am a system-level hacker, optimizer, and builder.
 I specialize in multi-GPU ROCm architectures, AI integration at the kernel level, and offensive cybersecurity engineering.
@@ -26,7 +26,7 @@ I don't use tools — I forge them.
 </p>
 
 
-<p align="center">💼 Core Expertise</p>
+<p align="center">- Core Expertise -</p>
 
     AI Runtime Optimization:
     ROCm Multi-GPU (OpenCL), Custom PoW Solvers, Kernel-Level Tuning
@@ -47,7 +47,7 @@ I don't use tools — I forge them.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=ERROR+404..........." alt="ERROR 404" />
 </div>
 
-<p align="center">🛠️ Core Skills</p>
+<p align="center">🛠- Core Skills -</p>
 
     Domain	Stack
 
@@ -73,7 +73,7 @@ I don't use tools — I forge them.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=BROKEN+PIPE........" alt="BROKEN PIPE" />
 </div>
 
-<p align="center">🌐 Notable Projects</p>
+<p align="center">- Notable Projects -</p>
 
     Bittensor-ROCm Fork
     ➔ First fully working ROCm fork of Bittensor SDK, enabling AMD GPU mining on decentralized AI subnets
@@ -100,7 +100,7 @@ I don't use tools — I forge them.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=CTF%7BG0dM0d%7D" alt="CTF Flag" />
 </div>
 
-<p align="center">### 📫 Get in Touch</p>
+<p align="center">### - Get in Touch -</p>
 
     - **LinkedIn**: [Soon](https://www.linkedin.com/in/yourprofile)
     - **Email**: [Here](mailto:your.email@gmail.com)
