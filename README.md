@@ -10,12 +10,12 @@
 
 ```
 whoami
-> Leo Camus â€” @Dev-next-gen
+> Leo Camus -- @Dev-next-gen
 > Paris, France
 > Self-taught. No degree. Full stack from silicon to inference.
 ```
 
-I build AI systems end-to-end â€” from GPU kernel tuning to autonomous multi-agent pipelines.
+I build AI systems end-to-end -- from GPU kernel tuning to autonomous multi-agent pipelines.
 I run 80B parameter models locally. I automate offensive security at scale.
 I don't wait for the right tools to exist.
 
@@ -35,24 +35,24 @@ I don't wait for the right tools to exist.
 
 ```
 AI Infrastructure & LLM:
-  llama.cpp Â· Ollama Â· LangChain Â· Multi-agent orchestration
-  Local inference â€” Qwen3-Coder 80B + 14B Â· ctx 262K Â· ROCm
+  llama.cpp - Ollama - LangChain - Multi-agent orchestration
+  Local inference -- Qwen3-Coder 80B + 14B - ctx 262K - ROCm
 
 Offensive Security:
-  Bug bounty automation Â· Pentest pipelines Â· CVSS analysis
-  nuclei Â· subfinder Â· katana Â· httpx Â· dalfox Â· jwt_tool
+  Bug bounty automation - Pentest pipelines - CVSS analysis
+  nuclei - subfinder - katana - httpx - dalfox - jwt_tool
 
 GPU & Compute:
-  AMD / NVIDIA multi-GPU Â· ROCm Â· OpenCL Â· Vulkan
-  Kernel-level tuning Â· Inference optimization
+  AMD / NVIDIA multi-GPU - ROCm - OpenCL - Vulkan
+  Kernel-level tuning - Inference optimization
 
 Systems & Backend:
-  Linux (Ubuntu / Kali) Â· Python Â· Node.js Â· Rust Â· API REST
-  MySQL Â· PostgreSQL Â· Supabase Â· self-hosted infra
+  Linux (Ubuntu / Kali) - Python - Node.js - Rust - API REST
+  MySQL - PostgreSQL - Supabase - self-hosted infra
 
 OSINT & Geopolitics:
-  Open-source intelligence pipelines Â· GDELT Â· ACLED
-  Real-time geospatial analysis Â· Sanctions mapping
+  Open-source intelligence pipelines - GDELT - ACLED
+  Real-time geospatial analysis - Sanctions mapping
 ```
 
 ---
@@ -62,36 +62,36 @@ OSINT & Geopolitics:
 </div>
 
 ```
-[ WIP ] Geopolitical OSINT Platform â€” open-source Palantir alternative
-  âž” Replaces classified sources with 6 tiers of legally-exploitable open data
-  âž” GDELT (all world events since 1979, 15-min update) Â· ACLED Â· SIPRI
-     Sentinel Hub Â· Copernicus Â· NASA FIRMS Â· ADS-B Exchange Â· OpenSanctions
-  âž” LLM pipeline: multi-source ingestion â†’ entity graph â†’ geostrategy briefs
-  â†’ 30+ integrated sources Â· real-time Â· fully local
+[ WIP ] Geopolitical OSINT Platform -- open-source Palantir alternative
+  => Replaces classified sources with 6 tiers of legally-exploitable open data
+  => GDELT (all world events since 1979, 15-min update) - ACLED - SIPRI
+     Sentinel Hub - Copernicus - NASA FIRMS - ADS-B Exchange - OpenSanctions
+  => LLM pipeline: multi-source ingestion -> entity graph -> geostrategy briefs
+  -> 30+ integrated sources - real-time - fully local
 
-[ PROD ] OpenClaw â€” Autonomous bug bounty pipeline
-  âž” 4 specialized LLM agents: recon Â· scan Â· analysis Â· reporting
-  âž” Qwen3-Coder 80B (recon/scan) + Qwen3-14B (orchestration/analysis)
-  âž” Full pipeline: subfinder â†’ httpx â†’ katana â†’ nuclei â†’ CVSS â†’ HackerOne report
-  âž” Tested on real targets Â· rewards up to $10,000 Critical
-  â†’ 100% local Â· multi-GPU Â· autonomous
+[ PROD ] OpenClaw -- Autonomous bug bounty pipeline
+  => 4 specialized LLM agents: recon - scan - analysis - reporting
+  => Qwen3-Coder 80B (recon/scan) + Qwen3-14B (orchestration/analysis)
+  => Full pipeline: subfinder -> httpx -> katana -> nuclei -> CVSS -> HackerOne report
+  => Tested on real targets - rewards up to $10,000 Critical
+  -> 100% local - multi-GPU - autonomous
 
 [ LIVE ] Bittensor-ROCm Fork
-  âž” First fully working ROCm fork of the Bittensor SDK
-  âž” AMD GPU mining on decentralized AI subnets
-  â†’ github.com/Dev-next-gen/Bittensor-rocm
+  => First fully working ROCm fork of the Bittensor SDK
+  => AMD GPU mining on decentralized AI subnets
+  -> github.com/Dev-next-gen/Bittensor-rocm
 
 [ LIVE ] KaliAgentAI
-  âž” AI-driven offensive security agent on Kali Linux
-  â†’ github.com/Dev-next-gen/KaliAgentAI
+  => AI-driven offensive security agent on Kali Linux
+  -> github.com/Dev-next-gen/KaliAgentAI
 
 [ LIVE ] py-supervise
-  âž” FastAPI backend for real-time system monitoring via SSE
-  â†’ github.com/Dev-next-gen/py-supervise
+  => FastAPI backend for real-time system monitoring via SSE
+  -> github.com/Dev-next-gen/py-supervise
 
 [ LIVE ] Multi-GPU OpenCL Patch for KoboldCpp
-  âž” ROCm round-robin inference across AMD RX 7900 XT GPUs
-  â†’ github.com/Dev-next-gen/koboldcpp-rocm
+  => ROCm round-robin inference across AMD RX 7900 XT GPUs
+  -> github.com/Dev-next-gen/koboldcpp-rocm
 ```
 
 ---
@@ -104,11 +104,11 @@ OSINT & Geopolitics:
 
 ```
 contact
-  â”œâ”€â”€ email      â†’ leo.camus23@gmail.com
-  â”œâ”€â”€ linkedin   â†’ linkedin.com/in/leo-camus-4bb480304
-  â””â”€â”€ site       â†’ nextgen-labs.net
+  |-- email      -> leo.camus23@gmail.com
+  |-- linkedin   -> linkedin.com/in/leo-camus-4bb480304
+  +-- site       -> nextgen-labs.net
 ```
 
 > Open to freelance missions, research collabs, or projects that shouldn't exist yet.
 
-ðŸ’¡ *"I don't wait for technologies. I build them faster."*
+> "I don't wait for technologies. I build them faster."
