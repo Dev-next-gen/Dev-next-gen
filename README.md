@@ -1,21 +1,23 @@
-<p align="center">Hi, I'm @Dev-next-gen!</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;---%C2%B7%C2%B7%C2%B7---;%C2%B7%C2%B7%C2%B7---%C2%B7%C2%B7%C2%B7;--%C2%B7---%C2%B7--;%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;-%C2%B7%C2%B7-%C2%B7%C2%B7-;%C2%B7--%C2%B7--%C2%B7" alt="spirale-animée-hack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;---%C2%B7%C2%B7%C2%B7---;%C2%B7%C2%B7%C2%B7---%C2%B7%C2%B7%C2%B7;--%C2%B7---%C2%B7--;%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;-%C2%B7%C2%B7-%C2%B7%C2%B7-;%C2%B7--%C2%B7--%C2%B7" alt="morse" />
 </p>
 
-<p align="center">-- IA Architect |  Cybersecurity Specialist | Systems & GPU Optimizer | Blockchain Innovator --</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Self-taught+builder+of+AI+infrastructures;GPU-accelerated+systems;and+decentralized+automation+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=AI+Architect+%7C+LLM+Infrastructure+%7C+Offensive+Security;Multi-GPU+ROCm+%7C+Autonomous+Agent+Systems;I+don't+use+tools+%E2%80%94+I+forge+them." alt="Typing SVG" />
 </div>
 
-<p align="center">###- About Me -###</p>
+---
 
-I am a system-level hacker, optimizer, and builder.
-I specialize in multi-GPU ROCm architectures, AI integration at the kernel level, and offensive cybersecurity engineering.
+```
+whoami
+> Leo Camus â€” @Dev-next-gen
+> Paris, France
+> Self-taught. No degree. Full stack from silicon to inference.
+```
 
-I create autonomous systems from scratch, optimize GPU clusters, and deploy blockchain-secured AI infrastructures.
-I don't use tools — I forge them.
+I build AI systems end-to-end â€” from GPU kernel tuning to autonomous multi-agent pipelines.
+I run 80B parameter models locally. I automate offensive security at scale.
+I don't wait for the right tools to exist.
 
 <p align="center">
   <picture>
@@ -25,89 +27,88 @@ I don't use tools — I forge them.
   </picture>
 </p>
 
-
-<p align="center">###- Core Expertise -###</p>
-
-    AI Runtime Optimization:
-    ROCm Multi-GPU (OpenCL), Custom PoW Solvers, Kernel-Level Tuning
-
-    Cybersecurity Engineering:
-    SOC Automation, Honeypot Networks, Offensive Scripting
-
-    Blockchain & DeFi:
-    Solidity/Rust Smart Contracts, Arbitrage Bots, Secure DeFi Infrastructure
-
-    Backends That Run Fast & Hard:
-    Linux Kernel Mods, CPU/GPU Load Balancing, ROCm Custom Builds
-
-    Autonomous Agents:
-    AI-powered, Self-Healing Linux Systems (DeepSeek R1)
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=ERROR+404..........." alt="ERROR 404" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=###--+Core+Expertise+--###" alt="Core Expertise" />
 </div>
 
-<p align="center">###- Core Skills -###</p>
+```
+AI Infrastructure & LLM:
+  llama.cpp Â· Ollama Â· LangChain Â· Multi-agent orchestration
+  Local inference â€” Qwen3-Coder 80B + 14B Â· ctx 262K Â· ROCm
 
-    Domain	Stack
+Offensive Security:
+  Bug bounty automation Â· Pentest pipelines Â· CVSS analysis
+  nuclei Â· subfinder Â· katana Â· httpx Â· dalfox Â· jwt_tool
 
-    Languages : 
-    Rust, Python, Solidity, Bash, C++, JavaScript
+GPU & Compute:
+  AMD / NVIDIA multi-GPU Â· ROCm Â· OpenCL Â· Vulkan
+  Kernel-level tuning Â· Inference optimization
 
-    GPU Acceleration : 
-    ROCm, CLBlast, OpenCL, Multi-GPU Patching
+Systems & Backend:
+  Linux (Ubuntu / Kali) Â· Python Â· Node.js Â· Rust Â· API REST
+  MySQL Â· PostgreSQL Â· Supabase Â· self-hosted infra
 
-    System Engineering : 
-    Linux Kernel Tuning, Xeon/RAM Optimization, Low-Level Debugging
+OSINT & Geopolitics:
+  Open-source intelligence pipelines Â· GDELT Â· ACLED
+  Real-time geospatial analysis Â· Sanctions mapping
+```
 
-    Security : 
-    Tor, ProxyChains, SOC Monitoring, Pentest Automation
-
-    Blockchain : 
-    Ethereum, BSC, Hardhat, Foundry, DeFi Audits 
-
-    Automation : 
-    Arbitrage Bots, Blockchain Monitoring, Infra-as-Code
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=BROKEN+PIPE........" alt="BROKEN PIPE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=###--+Notable+Projects+--###" alt="Projects" />
 </div>
 
-<p align="center">###- Notable Projects -###</p>
+```
+[ WIP ] Geopolitical OSINT Platform â€” open-source Palantir alternative
+  âž” Replaces classified sources with 6 tiers of legally-exploitable open data
+  âž” GDELT (all world events since 1979, 15-min update) Â· ACLED Â· SIPRI
+     Sentinel Hub Â· Copernicus Â· NASA FIRMS Â· ADS-B Exchange Â· OpenSanctions
+  âž” LLM pipeline: multi-source ingestion â†’ entity graph â†’ geostrategy briefs
+  â†’ 30+ integrated sources Â· real-time Â· fully local
 
-    Bittensor-ROCm Fork
-    ➔ First fully working ROCm fork of Bittensor SDK, enabling AMD GPU mining on decentralized AI subnets
-    
-    DeepSeek R1 (WIP)
-    ➔ Autonomous Linux-based AI Agent with GPU/CPU balancing, honeypot orchestration, and live system self-awareness
-    → [Soon on GitHub]
+[ PROD ] OpenClaw â€” Autonomous bug bounty pipeline
+  âž” 4 specialized LLM agents: recon Â· scan Â· analysis Â· reporting
+  âž” Qwen3-Coder 80B (recon/scan) + Qwen3-14B (orchestration/analysis)
+  âž” Full pipeline: subfinder â†’ httpx â†’ katana â†’ nuclei â†’ CVSS â†’ HackerOne report
+  âž” Tested on real targets Â· rewards up to $10,000 Critical
+  â†’ 100% local Â· multi-GPU Â· autonomous
 
-    RustAiControl
-    ➔ Secure AI Controller built with Rust and OpenAI integration, memory persistence, and system introspection
-    → github.com/yourprofile/rustaicontrol
+[ LIVE ] Bittensor-ROCm Fork
+  âž” First fully working ROCm fork of the Bittensor SDK
+  âž” AMD GPU mining on decentralized AI subnets
+  â†’ github.com/Dev-next-gen/Bittensor-rocm
 
-    PySupervise
-    ➔ Python FastAPI backend for real-time blockchain monitoring and resource analysis
-    → github.com/yourprofile/pysupervise
+[ LIVE ] KaliAgentAI
+  âž” AI-driven offensive security agent on Kali Linux
+  â†’ github.com/Dev-next-gen/KaliAgentAI
 
-    Multi-GPU OpenCL Patch for KoboldCpp
-    ➔ ROCm Round-Robin distribution across RX 7900 XT GPUs for accelerated AI inference
-    
-    DeFi Arbitrage Bot
-    ➔ Cross-DEX MEV bot leveraging Solidity exploits for secured arbitrage
+[ LIVE ] py-supervise
+  âž” FastAPI backend for real-time system monitoring via SSE
+  â†’ github.com/Dev-next-gen/py-supervise
+
+[ LIVE ] Multi-GPU OpenCL Patch for KoboldCpp
+  âž” ROCm round-robin inference across AMD RX 7900 XT GPUs
+  â†’ github.com/Dev-next-gen/koboldcpp-rocm
+```
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF00&center=true&vCenter=true&width=1000&lines=CTF%7BG0dM0d%7D" alt="CTF Flag" />
 </div>
 
-<p align="center">### - Get in Touch -###</p>
+---
 
-    - **LinkedIn**: [Soon](https://www.linkedin.com/in/yourprofile)
-    - **Email**: [Here](mailto:your.email@gmail.com)
-    - **Upwork**: [Here](https://www.upwork.com/freelancers/~010312cf603a9eae7b)
+```
+contact
+  â”œâ”€â”€ email      â†’ leo.camus23@gmail.com
+  â”œâ”€â”€ linkedin   â†’ linkedin.com/in/leo-camus-4bb480304
+  â””â”€â”€ site       â†’ nextgen-labs.net
+```
 
+> Open to freelance missions, research collabs, or projects that shouldn't exist yet.
 
-💡 **Philosophy**: 💡 "I don't wait for technologies. I build them faster."
-
-🔗 Open to collabs, freelance missions, or projects pushing limits.
-
+ðŸ’¡ *"I don't wait for technologies. I build them faster."*
