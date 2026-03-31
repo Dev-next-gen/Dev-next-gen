@@ -1,11 +1,3 @@
-<div align="center">
-
-### **AI Systems Architect**  
-### **LLM Infrastructure**  
-### **Distributed AI Systems**
-
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=500&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;---%C2%B7%C2%B7%C2%B7---;%C2%B7%C2%B7%C2%B7---%C2%B7%C2%B7%C2%B7;--%C2%B7---%C2%B7--;%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;-%C2%B7%C2%B7-%C2%B7%C2%B7-;%C2%B7--%C2%B7--%C2%B7" alt="morse" />
 </p>
