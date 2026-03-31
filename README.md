@@ -62,36 +62,40 @@ OSINT & Geopolitics:
 </div>
 
 ```
-[ WIP ] Geopolitical OSINT Platform -- open-source Palantir alternative
-  => Replaces classified sources with 6 tiers of legally-exploitable open data
-  => GDELT (all world events since 1979, 15-min update) - ACLED - SIPRI
-     Sentinel Hub - Copernicus - NASA FIRMS - ADS-B Exchange - OpenSanctions
-  => LLM pipeline: multi-source ingestion -> entity graph -> geostrategy briefs
-  -> 30+ integrated sources - real-time - fully local
+[ WIP ] Geopolitical OSINT Platform — open-source Palantir alternative
+    => Replaces classified sources with 6 tiers of legally-exploitable open data
+    => GDELT - ACLED - SIPRI - Sentinel Hub - Copernicus - NASA FIRMS - ADS-B Exchange - OpenSanctions
+    => LLM pipeline: multi-source ingestion -> entity graph -> geostrategy briefs
+    -> 30+ integrated sources - real-time - fully local
+    -> github.com/Dev-next-gen/osint-platform
 
-[ PROD ] OpenClaw -- Autonomous bug bounty pipeline
-  => 4 specialized LLM agents: recon - scan - analysis - reporting
-  => Qwen3-Coder 80B (recon/scan) + Qwen3-14B (orchestration/analysis)
-  => Full pipeline: subfinder -> httpx -> katana -> nuclei -> CVSS -> HackerOne report
-  => Tested on real targets - rewards up to $10,000 Critical
-  -> 100% local - multi-GPU - autonomous
+  [ PROD ] OpenClaw — Autonomous bug bounty pipeline
+    => 4 specialized LLM agents: recon - scan - analysis - reporting
+    => Qwen3-Coder 80B (recon/scan) + Qwen3-14B (orchestration/analysis)
+    => Full pipeline: subfinder -> httpx -> katana -> nuclei -> CVSS -> HackerOne report
+    => Tested on real targets - rewards up to $10,000 Critical
+    -> 100% local - multi-GPU - autonomous
+    -> github.com/Dev-next-gen/distributed-agent-runtime
 
-[ LIVE ] Bittensor-ROCm Fork
-  => First fully working ROCm fork of the Bittensor SDK
-  => AMD GPU mining on decentralized AI subnets
-  -> github.com/Dev-next-gen/Bittensor-rocm
+  [ LIVE ] AI Orchestrator
+    => LLM orchestration — 80B strategy + 14B execution + quality control loops
+    => STRATEGY pattern - score threshold - auto retry
+    -> github.com/Dev-next-gen/ai-orchestrator
 
-[ LIVE ] KaliAgentAI
-  => AI-driven offensive security agent on Kali Linux
-  -> github.com/Dev-next-gen/KaliAgentAI
+  [ LIVE ] Multi-Agent Framework
+    => Lightweight multi-agent framework — ACP protocol, task graph, role-based agents
+    => Tool registry - parallel execution - local LLM backends
+    -> github.com/Dev-next-gen/multi-agent-framework
 
-[ LIVE ] py-supervise
-  => FastAPI backend for real-time system monitoring via SSE
-  -> github.com/Dev-next-gen/py-supervise
+  [ LIVE ] GPU Cluster Lab
+    => AMD/NVIDIA GPU cluster infrastructure — ~300 GPU deployment experience
+    => ROCm kernel tuning - flash attention - multi-node benchmarking
+    -> github.com/Dev-next-gen/gpu-cluster-lab
 
-[ LIVE ] Multi-GPU OpenCL Patch for KoboldCpp
-  => ROCm round-robin inference across AMD RX 7900 XT GPUs
-  -> github.com/Dev-next-gen/koboldcpp-rocm
+  [ LIVE ] Local LLM Stack
+    => Production-grade local LLM deployment — llama.cpp, Ollama, GGUF, ROCm AMD
+    => 14B to 80B - zero cloud dependency - benchmarked configs
+    -> github.com/Dev-next-gen/local-llm-stack
 ```
 
 ---
