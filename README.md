@@ -59,9 +59,9 @@ Systems       Python · Rust · Node.js · Next.js · FastAPI · PostgreSQL · S
 
 ---
 
-## Also ships products
+## Products
 
-When I'm not in GPU land — SaaS platforms, mobile apps, full-stack web. Recent deliveries:
+SaaS platforms, mobile apps, full-stack web. Recent deliveries:
 
 - **Email marketing platform** — self-hosted, SPF/DKIM/DMARC, warm-up automation, 10/10 deliverability on first test
 - **Yoga studio app** — React/Vite, Supabase auth, booking system, deployed in production
