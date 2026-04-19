@@ -4,6 +4,8 @@
 
 **AI Infrastructure · Multi-GPU ROCm · Independent Research · Offensive Security**
 
+**Full Stack Development**
+
 Paris, France · Self-taught · No degree · Full stack from silicon to inference.
 
 </div>
