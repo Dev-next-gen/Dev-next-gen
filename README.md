@@ -10,17 +10,6 @@ Paris, France · Self-taught · No degree · Full stack from silicon to inferenc
 
 ---
 
-## Open Source Contributions
-
-| Project | PR | Status |
-|---|---|---|
-| [huggingface/diffusers](https://github.com/huggingface/diffusers) | [#13502](https://github.com/huggingface/diffusers/pull/13502) — ROCm stream sync + LSE shape fix | 🟡 In review |
-| [pytorch/ao](https://github.com/pytorch/ao) | non_blocking propagation in TorchAOBaseTensor._to_copy | 🟡 In review |
-
-Both fixes enable `use_stream=True` group offloading and ring/Ulysses context-parallel attention on AMD RDNA3 hardware, with no regression on CUDA.
-
----
-
 ## Projects
 
 **[flux-amd-rocm](https://github.com/Dev-next-gen/flux-amd-rocm)** — FLUX.1-dev at parity with NVIDIA on AMD RDNA3
