@@ -57,4 +57,17 @@ Systems       Python · Rust · Node.js · Next.js · FastAPI · PostgreSQL · S
 
 ---
 
+## Also ships products
+
+When I'm not in GPU land — SaaS platforms, mobile apps, full-stack web. Recent deliveries:
+
+- **Email marketing platform** — self-hosted, SPF/DKIM/DMARC, warm-up automation, 10/10 deliverability on first test
+- **Yoga studio app** — React/Vite, Supabase auth, booking system, deployed in production
+- **Hyperlocal marketplace** — mobile app, real-time geolocation, neighbor-to-neighbor listings
+- **OSINT platform** — [osint-platform](https://github.com/Dev-next-gen/osint-platform) — open-source Palantir alternative, 6-tier data ingestion, entity graph, real-time analysis
+
+Stack: Python · Node.js · Rust · Next.js · React · FastAPI · PostgreSQL · Supabase · Docker · Stripe · REST APIs
+
+---
+
 *Open to research collabs, freelance infra missions, or projects that shouldn't exist yet.*
