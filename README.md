@@ -85,7 +85,9 @@ Net     10 GbE local · self-hosted services
 
 <div align="center">
 
-<img width="170" alt="AMD ROCm Certified Associate" src="https://github.com/user-attachments/assets/7c85969d-d465-4195-9b19-f7b25e69699f" />
+<a href="https://www.credly.com/badges/c81bf14d-d935-41ca-828d-4a48d8bd3704/linked_in_profile">
+  <img width="160" alt="AMD ROCm Certified Associate" src="https://github.com/user-attachments/assets/7c85969d-d465-4195-9b19-f7b25e69699f" />
+</a>
 
 *Open to research collabs, freelance infra missions, or projects that shouldn't exist yet.*
 
