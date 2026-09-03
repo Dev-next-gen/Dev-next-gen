@@ -85,7 +85,7 @@ Net     10 GbE local · self-hosted services
 
 <div align="center">
 
-<img width="200" alt="AMD ROCm Certified Associate" src="https://github.com/user-attachments/assets/7c85969d-d465-4195-9b19-f7b25e69699f" />
+<img width="170" alt="AMD ROCm Certified Associate" src="https://github.com/user-attachments/assets/7c85969d-d465-4195-9b19-f7b25e69699f" />
 
 *Open to research collabs, freelance infra missions, or projects that shouldn't exist yet.*
 
