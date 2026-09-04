@@ -20,6 +20,14 @@ From founding a SaaS startup at 26, to operating a 300+ GPU farm on-site in Ukra
 
 ## Projects
 
+**[Orodruin](https://github.com/Dev-next-gen/orodruin)** — Open-source intelligence platform · live at [orodruin.dev](https://orodruin.dev)
+
+A self-hostable Palantir Gotham alternative. 30+ live public sources (GDELT, NASA FIRMS, USGS, AIS vessels, ADS-B aircraft, submarine cables, power grid, cyber threats, weather, satellites) fused onto a 2D/3D map and an actor graph, with an AI analyst that queries every source and drives the interface. FR/EN/AR/RU · AGPL-3.0.
+
+**[Excalibur](https://github.com/Dev-next-gen/excalibur)** — Active-defense deception middleware · live demo at [excalibur.nextgen-labs.net](https://excalibur.nextgen-labs.net)
+
+Serves booby-trapped fake data to attackers, then traces and geolocates them via canary tokens. One-line integration · Rust SDK · ML scoring (PASS/CANARY/DECEIVE) · forensic tracer (Merkle log, STIX export) · real-time SOC dashboard. AGPL-3.0.
+
 **[flux-amd-rocm](https://github.com/Dev-next-gen/flux-amd-rocm)** — FLUX.1-dev at parity with NVIDIA on AMD RDNA3
 
 4-GPU Megatron-style tensor parallelism · 51 s/image @ 1024² · 11 GB/GPU. Int8 quantization + async group offloading on a single RX 7800 XT · 80 s · 12.5 GB VRAM.
@@ -61,14 +69,15 @@ Systems       Python · Rust · Node.js · Next.js · FastAPI · PostgreSQL · S
 
 ## Products
 
-SaaS platforms, mobile apps, full-stack web. Recent deliveries:
+Production SaaS, mobile apps and full-stack web — shipped end to end, most of it self-hosted. Selected deliveries:
 
-- **Email marketing platform** — self-hosted, SPF/DKIM/DMARC, warm-up automation, 10/10 deliverability on first test
-- **Yoga studio app** — React/Vite, Supabase auth, booking system, deployed in production
-- **Hyperlocal marketplace** — mobile app, real-time geolocation, neighbor-to-neighbor listings
-- **OSINT platform** — [osint-platform](https://github.com/Dev-next-gen/osint-platform) — open-source Palantir alternative, 6-tier data ingestion, entity graph, real-time analysis
+- **Email marketing platform** — self-hosted SMTP with full SPF/DKIM/DMARC, automated IP warm-up, 10/10 on Mail-Tester on the first send. In production.
+- **E-commerce store** ([rim-phone.com](https://rim-phone.com)) — Next.js + Prisma, bilingual FR/AR with full RTL, cash-on-delivery checkout. Live on HTTPS (VPS · nginx · pm2 · certbot).
+- **Atomic swap PoC** — cross-asset atomic swap on Daml/Canton, 7/7 test suite, custom web UI, bilingual docs. Delivered to client.
+- **Yoga studio app** — React/Vite, Supabase auth, full booking system. Deployed in production.
+- **Hyperlocal marketplace** — mobile app, real-time geolocation, neighbor-to-neighbor listings.
 
-Stack: Python · Node.js · Rust · Next.js · React · FastAPI · PostgreSQL · Supabase · Docker · Stripe · REST APIs
+Stack: Python · Node.js · Rust · Next.js · React · FastAPI · PostgreSQL · Supabase · Daml/Canton · Docker · Stripe · REST APIs
 
 ## Infrastructure
 
