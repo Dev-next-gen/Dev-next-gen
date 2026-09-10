@@ -84,9 +84,9 @@ Stack: Python · Node.js · Rust · Next.js · React · FastAPI · PostgreSQL ·
 ```
 CPU     2× Intel Xeon E5-2698 v4 — 80 threads
 RAM     512 GB ECC
-GPU     5× AMD RX 7800 XT (gfx1101) — 80 GB VRAM total
+GPU     6× AMD RX 7800 XT (gfx1101) — 96 GB VRAM total
 NVMe    Multi-drive storage array
-OS      Ubuntu · ROCm 7.1
+OS      Ubuntu · ROCm 7.2
 Net     10 GbE local · self-hosted services
 ```
 
