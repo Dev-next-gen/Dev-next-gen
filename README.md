@@ -34,7 +34,7 @@ Serves booby-trapped fake data to attackers, then traces and geolocates them via
 
 **[diffusers-rocm-parallel](https://github.com/Dev-next-gen/diffusers-rocm-parallel)** — Multi-GPU inference stack for AMD
 
-Tensor parallel FLUX on 5× RX 7800 XT (gfx1101) · ring attention LSE shape fix · Ulysses context parallel.
+Tensor parallel FLUX on 6× RX 7800 XT (gfx1101) · ring attention LSE shape fix · Ulysses context parallel.
 
 **[openclaw](https://github.com/Dev-next-gen/distributed-agent-runtime)** — Autonomous bug bounty pipeline
 
@@ -57,9 +57,9 @@ Graft-based temporal cognition in frozen LLMs. TemporalAdapter (<0.6% params) gr
 ## Stack
 
 ```
-Compute       5× AMD RX 7800 XT (gfx1101) · 80 GB VRAM · ROCm 7.1
+Compute       6× AMD RX 7800 XT (gfx1101) · 96 GB VRAM · ROCm 7.2
               Custom builds: rocWMMA · FA_ALL_QUANTS · HIP_GRAPHS
-Inference     PyTorch · diffusers · torchao · llama.cpp · vLLM · 38 t/s @ 80B ctx 262K
+Inference     PyTorch · diffusers · torchao · llama.cpp · vLLM · 42 t/s @ 80B ctx 262K
 ML            Tensor parallelism · group offloading · int8/int4 · Triton kernels
 Security      nuclei · subfinder · katana · httpx · Burp Suite Pro · responsible disclosure
 Systems       Python · Rust · Node.js · Next.js · FastAPI · PostgreSQL · Supabase · Docker
