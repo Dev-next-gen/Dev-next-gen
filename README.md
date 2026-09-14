@@ -6,7 +6,7 @@
 
 **Full Stack Development**
 
-Paris, France · Self-taught · **Self-taught** · Full stack from silicon to inference.
+Paris, France · Self-taught · **No degree** · Full stack from silicon to inference.
 
 </div>
 
