@@ -14,7 +14,7 @@ Paris, France · Self-taught
 
 ---
 
-I build systems that find things people missed, and I make infrastructure run where the tooling says it shouldn't. Two examples. An agent pipeline that opened 182 proven fixes across 103 open-source repositories in one week, and got them merged into V8, NASA flight software, LLVM, React and Tokio. And AMD GPUs doing tensor-parallel diffusion inference that the ecosystem assumes needs NVIDIA.
+I build systems that find things people missed, and I make infrastructure run where the tooling says it shouldn't. Two examples. An agent pipeline that opened 181 proven fixes across 102 open-source repositories in one week, and got them merged into V8, NASA flight software, LLVM, React and Tokio. And AMD GPUs doing tensor-parallel diffusion inference that the ecosystem assumes needs NVIDIA.
 
 I don't write the patches by hand. I design the system that produces them, and the gates that decide what is allowed to leave it. I own the machine it all runs on, so every number here is measured, not estimated.
 
@@ -29,11 +29,11 @@ What that produces, measured:
 | | |
 |---|---|
 | **357 agent runs over 151 hours** | 10–16 September 2026, one week |
-| **182 pull requests opened, proven and written up** | across 103 repositories |
-| **84 merged, 7 closed** without merging | in 45 projects I don't maintain |
-| **$909 total — $10.80 per merged fix** | failed runs included; nearly a third find nothing |
+| **181 pull requests opened, proven and written up** | across 102 repositories |
+| **83 merged, 7 closed** without merging | in 44 projects I don't maintain |
+| **$909 total — $10.95 per merged fix** | failed runs included; nearly a third find nothing |
 
-Seven rejections against eighty-four merges is the number I care about, because that ratio is what the proof requirement is for. Automated reviewers land the same way — Copilot's reviewer returned *approval recommended* on the WSL parser fix, CodeRabbit called the cuDF one *suitable for merge*.
+Seven rejections against eighty-three merges is the number I care about, because that ratio is what the proof requirement is for. Automated reviewers land the same way — Copilot's reviewer returned *approval recommended* on the WSL parser fix, CodeRabbit called the cuDF one *suitable for merge*.
 
 The hardest review it has passed is the **[JavaScript engine v8/v8](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/AUTHORS)**: two CLs through Gerrit, CLA and committer review, into the ECMA-262 implementation behind Chrome and Node.js. My name is in the AUTHORS file.
 
