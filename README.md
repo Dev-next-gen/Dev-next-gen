@@ -22,7 +22,7 @@ I don't write the patches by hand. I design the system that produces them, and t
 
 ## The pipeline, and what it shipped
 
-I built a system that hunts defects in large codebases, proves them, and prepares the fix for review. Two rules decide what is allowed to leave it: nothing ships without a reproduction that fails before the patch and passes after, and nothing ships until the target project's own contribution rules are satisfied. Everything else is engineering around those two.
+I built a system that hunts defects in large codebases, proves them, and prepares the fix for review. Two rules decide what is allowed to leave it: nothing ships without a reproduction that fails before the patch and passes after, and nothing ships until the target project's own contribution rules are satisfied. Everything else is engineering around those two. The search is not deterministic; the gate is — the full write-up, the evidence and what I still don't know are in **[defect-hunting-pipeline](https://github.com/Dev-next-gen/defect-hunting-pipeline)**.
 
 What that produces, measured:
 
