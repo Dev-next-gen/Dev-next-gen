@@ -37,8 +37,6 @@ Seven rejections against eighty-three merges is the number I care about, because
 
 The hardest review it has passed is the **[JavaScript engine v8/v8](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/AUTHORS)**: two CLs through Gerrit, CLA and committer review, into the ECMA-262 implementation behind Chrome and Node.js. My name is in the AUTHORS file.
 
-Not everything the pipeline finds is meant to be published. A remotely reachable panic in **[tailscale/tailscale](https://github.com/tailscale/tailscale/pull/21331)** went to their security channel instead of a pull request, and stayed there until they published their own fix: `decode4` stored the IPv4 option offset before validating it, so a packet with a bad header length left the offset dangling and a later `Transport()` call panicked. Tailscale wrote the patch themselves and credited the report in the open. Routing a finding away from a public repository is a feature of the system, not an exception to it.
-
 The fixes I would point to first:
 
 | | |
