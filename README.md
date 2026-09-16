@@ -14,7 +14,7 @@ Paris, France · Self-taught
 
 ---
 
-I build systems that find things people missed, and I make infrastructure run where the tooling says it shouldn't. Two examples. An agent pipeline that isolated 95 defects across 81 open-source repositories in 101 hours, and got its fixes merged into V8, LLVM, React and Tokio. And AMD GPUs doing tensor-parallel diffusion inference that the ecosystem assumes needs NVIDIA.
+I build systems that find things people missed, and I make infrastructure run where the tooling says it shouldn't. Two examples. An agent pipeline that opened 182 proven fixes across 103 open-source repositories in one week, and got them merged into V8, NASA flight software, LLVM, React and Tokio. And AMD GPUs doing tensor-parallel diffusion inference that the ecosystem assumes needs NVIDIA.
 
 I don't write the patches by hand. I design the system that produces them, and the gates that decide what is allowed to leave it. I own the machine it all runs on, so every number here is measured, not estimated.
 
@@ -28,19 +28,22 @@ What that produces, measured:
 
 | | |
 |---|---|
-| **190 agent runs over 101 hours** | 10–14 September 2026 |
-| **95 defects isolated, proven and written up** | across 81 repositories |
-| **37 merged, 7 closed** without merging | in 27 projects I don't maintain |
-| **$482 total — $16 per merged fix** | failed runs included; half of them find nothing |
+| **357 agent runs over 151 hours** | 10–16 September 2026, one week |
+| **182 pull requests opened, proven and written up** | across 103 repositories |
+| **84 merged, 7 closed** without merging | in 45 projects I don't maintain |
+| **$909 total — $10.80 per merged fix** | failed runs included; nearly a third find nothing |
 
-Seven rejections against thirty-seven merges is the number I care about, because that ratio is what the proof requirement is for. Automated reviewers land the same way — Copilot's reviewer returned *approval recommended* on the WSL parser fix, CodeRabbit called the cuDF one *suitable for merge*.
+Seven rejections against eighty-four merges is the number I care about, because that ratio is what the proof requirement is for. Automated reviewers land the same way — Copilot's reviewer returned *approval recommended* on the WSL parser fix, CodeRabbit called the cuDF one *suitable for merge*.
 
 The hardest review it has passed is the **[JavaScript engine v8/v8](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/AUTHORS)**: two CLs through Gerrit, CLA and committer review, into the ECMA-262 implementation behind Chrome and Node.js. My name is in the AUTHORS file.
+
+Not everything the pipeline finds is meant to be published. A remotely reachable panic in **[tailscale/tailscale](https://github.com/tailscale/tailscale/pull/21331)** went to their security channel instead of a pull request, and stayed there until they published their own fix: `decode4` stored the IPv4 option offset before validating it, so a packet with a bad header length left the offset dangling and a later `Transport()` call panicked. Tailscale wrote the patch themselves and credited the report in the open. Routing a finding away from a public repository is a feature of the system, not an exception to it.
 
 The fixes I would point to first:
 
 | | |
 |---|---|
+| **[NASA F´](https://github.com/nasa/fprime/pull/5972)** · C++ · flight software | `SpacePacketFramer` dropped its status signal when a buffer allocation failed, so the component below it waited forever and the downlink chain stalled instead of reporting the error. |
 | **[tokio](https://github.com/tokio-rs/tokio/pull/8459)** · Rust · 33k★ | `copy_buf` never touched the coop budget, so a task copying in a loop never yielded back to the runtime. The cooperativeness test never finishes without the fix. |
 | **[React](https://github.com/react/react/pull/37608)** · 250k★ | Flight and DevTools only stripped part of the `async ` prefix V8 puts on stack frame names, so server-component frames came out malformed. |
 | **[celery](https://github.com/celery/celery/pull/10620)** · Python · 29k★ | `AzureBlockBlobBackend.as_uri` leaked the SAS token and the account key into logs and error messages. |
@@ -49,22 +52,26 @@ The fixes I would point to first:
 | **[LLVM](https://github.com/llvm/llvm-project/pull/222742)** · 40k★ | `cmake_format.py` in libc wrote CRLF on Windows, so formatting a file changed every line of it. |
 | **[three.js](https://github.com/mrdoob/three.js/pull/34542)** · 116k★ | `NURBSCurve` never overrode `copy()`, so `clone()` returned a curve with no degree, knots or control points — a different shape from the original. |
 
-Both counts above are checkable: [merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen) · [closed without merging](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen).
+Both counts are checkable, and the public search covers the whole account rather than this one week: [100 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen) · [13 closed without merging](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen).
 
 <details>
 <summary><b>The rest</b></summary>
 
 <br>
 
-**Systems and infrastructure** — [kubescape](https://github.com/kubescape/kubescape/pull/3820) (Go, `/dev/stdout` and `/dev/null` in `diff --output`) · [authentik](https://github.com/goauthentik/authentik/pull/25993) (translate before interpolating in SMS blueprints) · [nginx-ui](https://github.com/0xJacky/nginx-ui/pull/1890) (bracket IPv6 hosts for the default gRPC port) · [termux-packages](https://github.com/termux/termux-packages/pull/31608) · [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js/pull/1307) · [sea-orm](https://github.com/SeaQL/sea-orm/pull/3199) (Rust, multi-hop `left_join_linked` aliasing) · [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/1826)
+**Systems and infrastructure** — [GoBGP](https://github.com/osrg/gobgp/pull/3613) (Go, BGP daemon: socket address handling) · [Apache Maven](https://github.com/apache/maven/pull/13139) · [Mesa](https://github.com/mesa/mesa/pull/3860) · [ROS 2 rcutils](https://github.com/ros2/rcutils/pull/593) · [kubescape](https://github.com/kubescape/kubescape/pull/3820) (Go, `/dev/stdout` and `/dev/null` in `diff --output`) · [authentik](https://github.com/goauthentik/authentik/pull/25993) (translate before interpolating in SMS blueprints) · [nginx-ui](https://github.com/0xJacky/nginx-ui/pull/1890) (bracket IPv6 hosts for the default gRPC port) · [termux-packages](https://github.com/termux/termux-packages/pull/31608) · [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js/pull/1307) · [sea-orm](https://github.com/SeaQL/sea-orm/pull/3199) (Rust, multi-hop `left_join_linked` aliasing) · [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox/pull/1826)
 
 **ML and AMD** — [pytorch/ao](https://github.com/pytorch/ao/pull/4297) (propagate `non_blocking` in `TorchAOBaseTensor._to_copy`) · [pytorch/ao](https://github.com/pytorch/ao/pull/4876) (invalid escape sequences, W605 enabled so they stay fixed) · [llama.rn](https://github.com/mybigday/llama.rn/pull/390) · [agent-framework](https://github.com/microsoft/agent-framework/pull/8206) (reset `$LASTEXITCODE` per command in persistent PowerShell sessions)
 
-**Editors, UI and desktop** — [lexical](https://github.com/facebook/lexical/pull/9162) (TextNode setters read the latest state) · [AFFiNE](https://github.com/toeverything/AFFiNE/pull/15595) (accumulate overlapping doc priority requests) · [MarkText](https://github.com/marktext/marktext/pull/5320) (exported links from folders named with `#`, `?` or `%`) · [Sparkle](https://github.com/sparkle-project/Sparkle/pull/2921) (Objective-C, release-notes content length from the appcast) · [mango](https://github.com/mangowm/mango/pull/1388) (keycode-only modifiers in `parse_mod`)
+**Editors, UI and desktop** — [Dioxus](https://github.com/DioxusLabs/dioxus/pull/5836) (Rust) · [lexical](https://github.com/facebook/lexical/pull/9162) (TextNode setters read the latest state) · [AFFiNE](https://github.com/toeverything/AFFiNE/pull/15595) (accumulate overlapping doc priority requests) · [MarkText](https://github.com/marktext/marktext/pull/5320) (exported links from folders named with `#`, `?` or `%`) · [Sparkle](https://github.com/sparkle-project/Sparkle/pull/2921) (Objective-C, release-notes content length from the appcast) · [mango](https://github.com/mangowm/mango/pull/1388) (keycode-only modifiers in `parse_mod`)
 
 **Emulation and low level** — [MAME](https://github.com/mamedev/mame/pull/16103) (`fs_prodos`: zero master index entries in tree files are sparse) · [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32/pull/2256) and [#2257](https://github.com/78/xiaozhi-esp32/pull/2257) (C++ on ESP32: don't abort on short theme colors, free cJSON strings)
 
-**Tools** — [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp/pulls?q=is%3Amerged+author%3ADev-next-gen) (six merges on LUT install and media analysis) · [pyvideotrans](https://github.com/jianchang512/pyvideotrans/pull/1207) · [QuantDinger](https://github.com/OpenByteInc/QuantDinger/pull/243) (infer exchange precision from the `Decimal` exponent) · [diagram-design](https://github.com/cathrynlavery/diagram-design/pull/201)
+**Web and developer tooling** — [Puppeteer](https://github.com/puppeteer/puppeteer/pull/15451) · [orval](https://github.com/orval-labs/orval/pull/4123) (three merges) · [xmake](https://github.com/xmake-io/xmake/pull/7765) · [Raycast extensions](https://github.com/raycast/extensions/pull/31158) · [EspoCRM](https://github.com/espocrm/espocrm/pull/3790) (three merges) · [teamai-cli](https://github.com/Tencent/teamai-cli/pull/595)
+
+**French public service** — [rdv-service-public](https://github.com/betagouv/rdv-service-public/pull/6695) · [b3desk](https://github.com/numerique-gouv/b3desk/pull/426) · [beta.gouv.fr](https://github.com/betagouv/beta.gouv.fr/pull/21678)
+
+**Tools** — [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp/pulls?q=is%3Amerged+author%3ADev-next-gen) (twelve merges on LUT install and media analysis) · [pyvideotrans](https://github.com/jianchang512/pyvideotrans/pull/1207) · [QuantDinger](https://github.com/OpenByteInc/QuantDinger/pull/243) (infer exchange precision from the `Decimal` exponent) · [diagram-design](https://github.com/cathrynlavery/diagram-design/pull/201)
 
 </details>
 
