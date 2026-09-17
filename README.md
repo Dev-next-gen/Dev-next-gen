@@ -50,7 +50,7 @@ The fixes I would point to first:
 | **[LLVM](https://github.com/llvm/llvm-project/pull/222742)** · 40k★ | `cmake_format.py` in libc wrote CRLF on Windows, so formatting a file changed every line of it. |
 | **[three.js](https://github.com/mrdoob/three.js/pull/34542)** · 116k★ | `NURBSCurve` never overrode `copy()`, so `clone()` returned a curve with no degree, knots or control points — a different shape from the original. |
 
-Both counts are checkable, and the public search covers the whole account rather than this one week: [100 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen) · [13 closed without merging](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen).
+Both counts are checkable, and the public search covers the whole account rather than this one week: [111 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen) · [14 closed without merging](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen).
 
 <details>
 <summary><b>The rest</b></summary>
