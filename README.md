@@ -50,7 +50,20 @@ The fixes I would point to first:
 | **[LLVM](https://github.com/llvm/llvm-project/pull/222742)** · 40k★ | `cmake_format.py` in libc wrote CRLF on Windows, so formatting a file changed every line of it. |
 | **[three.js](https://github.com/mrdoob/three.js/pull/34542)** · 116k★ | `NURBSCurve` never overrode `copy()`, so `clone()` returned a curve with no degree, knots or control points — a different shape from the original. |
 
-Both counts are checkable, and the public search covers the whole account rather than this one week: [111 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen) · [14 closed without merging](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen).
+Both counts are checkable, and the public search covers the whole account rather than this one week: **[181 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen)** across more than a hundred repositories, and still climbing. The [closed ones](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen) are not all rejections: several had their fix taken by hand rather than through the merge button. Celery is the clearest — a maintainer closed one as *“AI generated shits”*, then reopened it, merged it, and signed off with *“Ok forgiving you for now 😁”*.
+
+## What the maintainers said
+
+> “Nice catch, great fix and test! You are running a very cool project 😄”
+> — **fire-light42**, approving the merged [Cloudstream](https://github.com/recloudstream/cloudstream/pull/3174) HLS URL-resolution fix
+
+> “Good catch!” · “Nice catch!” · “Looks good!”
+> — **R. Bocchino** (NASA JPL) and **Kronos3**, across the F´/FPP [issues](https://github.com/nasa/fpp/issues/1116) and [pull requests](https://github.com/nasa/fpp/pull/1119)
+
+> “Ok forgiving you for now 😁”
+> — **auvipy** (Celery), after closing a PR as AI-generated, then reopening and merging it
+
+A bug-bounty pipeline built on the same architecture — the same fail-before / pass-after proof gate and the same per-project rule-checking — is now in progress.
 
 <details>
 <summary><b>The rest</b></summary>
