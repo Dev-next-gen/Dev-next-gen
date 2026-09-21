@@ -63,6 +63,14 @@ Both counts are checkable, and the public search covers the whole account rather
 > “Ok forgiving you for now 😁”
 > — **auvipy** (Celery), after closing a PR as AI-generated, then reopening and merging it
 
+> “Thanks for the very thorough follow-up — really appreciate you double-checking both points instead of just taking my review at face value.”
+> — **DanielLeens** (Apache SeaTunnel)
+
+> “Thanks for the detailed writeup, this one is easy to follow and the diagnosis holds up. I traced the same path independently.”
+> — **MehrazRumman** (Celery), re-deriving the proof before merging
+
+Plain thanks-and-merged, too, from **Tailscale**, **Microsoft WSL**, **React** and **ScyllaDB**.
+
 A bug-bounty pipeline built on the same architecture — the same fail-before / pass-after proof gate and the same per-project rule-checking — is now in progress.
 
 <details>
