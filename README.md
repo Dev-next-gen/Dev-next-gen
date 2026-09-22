@@ -29,11 +29,11 @@ What that produces, measured:
 | | |
 |---|---|
 | **378 agent runs over 156 hours** | 10–16 September 2026, one week |
-| **194 pull requests opened, proven and written up** | across 102 repositories |
-| **91 merged, 8 closed** without merging | in 44 projects I don't maintain |
-| **$956 total — $10.51 per merged fix** | failed runs included; 27 % find nothing |
+| **195 pull requests opened, proven and written up** | across 103 repositories |
+| **118 merged, 9 closed** without merging | in 55 projects I don't maintain |
+| **$956 total — $8.10 per merged fix** | failed runs included; 27 % find nothing |
 
-Eight rejections against ninety-one merges is the number I care about, because that ratio is what the proof requirement is for. Automated reviewers land the same way — Copilot's reviewer returned *approval recommended* on the WSL parser fix, CodeRabbit called the cuDF one *suitable for merge*.
+Nine closed without merging against a hundred and eighteen merges is the ratio I care about, because that ratio is what the proof requirement is for. Automated reviewers land the same way — Copilot's reviewer returned *approval recommended* on the WSL parser fix, CodeRabbit called the cuDF one *suitable for merge*.
 
 The hardest review it has passed is the **[JavaScript engine v8/v8](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/AUTHORS)**: two CLs through Gerrit, CLA and committer review, into the ECMA-262 implementation behind Chrome and Node.js. My name is in the AUTHORS file.
 
