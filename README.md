@@ -11,6 +11,8 @@ Paris, France · Self-taught
 </a>
 
 <br>
+<br>
+<br>
 
 <p>
   <a href="https://gitranks.com/profile/Dev-next-gen"><img alt="GitRanks contributor percentile" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;
