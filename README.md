@@ -10,11 +10,13 @@ Paris, France · Self-taught
   <img width="120" alt="AMD ROCm Certified Associate" src="https://github.com/user-attachments/assets/7c85969d-d465-4195-9b19-f7b25e69699f" />
 </a>
 
-<a href="https://gitranks.com/profile/Dev-next-gen">
-  <img alt="GitRanks contributor percentile" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
-  <img alt="GitRanks contributor tier" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=tier&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
-  <img alt="GitRanks contributor position" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=position&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
-</a>
+<br>
+
+<p>
+  <a href="https://gitranks.com/profile/Dev-next-gen"><img alt="GitRanks contributor percentile" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://gitranks.com/profile/Dev-next-gen"><img alt="GitRanks contributor tier" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=tier&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://gitranks.com/profile/Dev-next-gen"><img alt="GitRanks contributor position" src="https://gitranks.com/api/badge/v2/Dev-next-gen?ranking=c&context=global&type=position&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /></a>
+</p>
 
 </div>
 
