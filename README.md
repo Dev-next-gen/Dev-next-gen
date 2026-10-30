@@ -24,7 +24,7 @@ Paris, France · Self-taught
 
 ---
 
-I build systems that find things people missed, and I make infrastructure run where the tooling says it shouldn't. Two examples. An agent pipeline that opened 289 proven fixes across 143 open-source repositories, 181 of them merged, into V8, NASA flight software, LLVM, React and Tokio. And AMD GPUs doing tensor-parallel diffusion inference that the ecosystem assumes needs NVIDIA.
+I build systems that find things people missed, and I make infrastructure run where the tooling says it shouldn't. Two examples. An agent pipeline that has opened 434 proven pull requests in open-source projects, 310 of them merged into 136 repositories, including V8, NASA flight software, LLVM, React and Tokio. And AMD GPUs doing tensor-parallel diffusion inference that the ecosystem assumes needs NVIDIA.
 
 I don't write the patches by hand. I design the system that produces them, and the gates that decide what is allowed to leave it. I own the machine it all runs on, so every number here is measured, not estimated.
 
@@ -60,7 +60,7 @@ The fixes I would point to first:
 | **[LLVM](https://github.com/llvm/llvm-project/pull/222742)** · 40k★ | `cmake_format.py` in libc wrote CRLF on Windows, so formatting a file changed every line of it. |
 | **[three.js](https://github.com/mrdoob/three.js/pull/34542)** · 116k★ | `NURBSCurve` never overrode `copy()`, so `clone()` returned a curve with no degree, knots or control points — a different shape from the original. |
 
-Both counts are checkable, and the public search covers the whole account rather than this one week: **[181 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen)** across 143 repositories, and still climbing. The [closed ones](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen) are not all rejections: several had their fix taken by hand rather than through the merge button. Celery is the clearest — a maintainer closed one as *“AI generated shits”*, then reopened it, merged it, and signed off with *“Ok forgiving you for now 😁”*.
+Both counts are checkable, and the public search covers the whole account rather than this one week: **[310 merged](https://github.com/pulls?q=is%3Amerged+author%3ADev-next-gen)** across 136 repositories, and still climbing. The [closed ones](https://github.com/pulls?q=is%3Apr+is%3Aclosed+is%3Aunmerged+author%3ADev-next-gen) are not all rejections: several had their fix taken by hand rather than through the merge button. Celery is the clearest — a maintainer closed one as *“AI generated shits”*, then reopened it, merged it, and signed off with *“Ok forgiving you for now 😁”*.
 
 ## What the maintainers said
 
@@ -175,7 +175,7 @@ Qwen3-Coder-Next 80B runs on it at 42 t/s with a 262K context. Everything above 
 
 <div align="center">
 
-Open to research collaborations, freelance infrastructure work, and projects that shouldn't exist yet.
+Open to research collaborations, and to projects that shouldn't exist yet.
 
 **[leo.camus23@gmail.com](mailto:leo.camus23@gmail.com)**
 
